@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.KFriesApp" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/black</item>
+    </style>
+</resources>
