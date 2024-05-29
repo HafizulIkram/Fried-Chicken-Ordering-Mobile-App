@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">kFries PickUp Application</string>
+    <string name="logout" />
+
+    <string-array name="role">
+        <item>user</item>
+        <item>admin</item>
+        <item>superadmin</item>
+    </string-array>
+
+    <string-array name="order_status">
+        <item>New</item>
+        <item>Preparing</item>
+        <item>Ready</item>
+    </string-array>
+
+    <string name="Logout">Logout</string>
+</resources>
