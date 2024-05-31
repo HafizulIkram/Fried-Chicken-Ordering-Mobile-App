@@ -15,13 +15,15 @@ Welcome to our Fried Chicken Ordering Mobile App! This app makes it easy for use
 ## Screenshots
 
 ### Login Page
-![Login Screen](screenshots/loginPage.png)
+![Login Screen](screenshot/loginPage.png)
 
-### Menu Screen
-![Menu Screen](screenshots/menu_screen.png)
+### Admin Page
+![Admin Order Tracking Page](screenshot/admin_order.png)
+![Admin Update Order Page](screenshot/admin_UpdateOrder.png)
 
-### Order Tracking
-![Order Tracking](screenshots/order_tracking.png)
+### User Page
+![User Order Page](screenshot/user_order.png)
+![User Create Order Page](screenshot/user_addNewOrder.png)
 
 
 ## Technologies Used
